@@ -18,7 +18,7 @@ public class IndexController {
         return new HashMap<>() {{
             put("deploy", true);
             put("application", "world");
-            put("new-message-9-4-2024", "Today's Date");
+            put("new-message-9-9-2024", "Today's Date");
         }};
     }
 }
